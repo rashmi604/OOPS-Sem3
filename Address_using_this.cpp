@@ -15,3 +15,5 @@ using namespace std;
 	  
 	 return 0;
 	}
+
+    //this-> pointer refers to the current object
