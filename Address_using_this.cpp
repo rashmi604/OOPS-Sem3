@@ -6,7 +6,6 @@ using namespace std;
 	    cout << "Address using this : " << this << endl; }
 	};
 	
-	
 	int main() {
 	  Test t1;
 	  
@@ -14,6 +13,7 @@ using namespace std;
 	  t1.show();
 	  
 	 return 0;
+	 
 	}
 
     //this-> pointer refers to the current object
